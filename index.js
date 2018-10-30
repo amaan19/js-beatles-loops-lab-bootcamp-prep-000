@@ -16,6 +16,6 @@ function iLoveTheBeatles (n) {
   let i = [];
   do {
     i.push("I love the Beatles!");
-    incrementVariable()
+    incrementVariable(n)
 }  while (n < 15) 
 }
